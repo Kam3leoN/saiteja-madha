@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Hey!+This+is+Sai+Teja)](https://github.com/saiteja-madha)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Hey!+This+is+Sai+Teja))](https://github.com/Kam3leoN)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+This+is+Kam3leoN+:))](https://github.com/Kam3leoN)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
